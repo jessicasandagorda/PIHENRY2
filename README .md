@@ -37,8 +37,7 @@ Un KPI posible es "aumentar la velocidad de los accesos a velocidades a mas de 
 Contiene el archivo Internet.xlsx que sirvió como fuente de datos para la realización de este trabajo.
 
 ### 4. Tecnologías Utilizadas
-Power BI 
-Python
+Power BI, Python.<br />
 Librerías de Python: pandas, numpy, seaborn, matplotlib.pyplot y inearRegression (sklearn.linear_model)
 
 
