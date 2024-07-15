@@ -27,10 +27,10 @@ Se graficaron y analizaron los siguientes KPI:
 - **Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.**
 Este KPI ayuda a medir el rendimiento de la empresa en su esfuerzo por expandir el acceso a internet, proporcionando un objetivo claro para orientar las estrategias y acciones de la empresa. Además, al ser un indicador clave de rendimiento, permite a la empresa evaluar su éxito en el logro de sus objetivos estratégicos y tomar decisiones informadas basadas en datos concretos.El incremento del 2% es cuantificable y permite realizar un seguimiento preciso del progreso.
 
-- **Aumentar el acceso a fibra óptica**
+- **Aumentar en un 5% el acceso a fibra óptica a nivel país para el próximo trimestre.**
 "Aumentar el acceso a fibra óptica" puede ser un KPI efectivo y relevante. Puede ayudar a medir y gestionar el progreso hacia objetivos estratégicos relacionados con la mejora de la infraestructura de telecomunicaciones y la calidad del servicio de internet. El indicador será el número de nuevos accesos a internet por fibra óptica que se detalla en el gráfico circular.
 
-- **Aumentar la velocidad de los accesos a velocidades a más de + 30 Mbps en las provincias**
+- **Aumentar 10%  la velocidad de los accesos a velocidades a más de + 30 Mbps en el interior del país para el próximo trimestre.**
 Un KPI posible es "aumentar la velocidad de los accesos a velocidades a mas de + 30 Mbps en las provincias".El mismo puede ayudar a medir y gestionar el progreso hacia objetivos estratégicos relacionados con la mejora de la calidad del servicio de internet en diferentes regiones. Busca mejorar la velocidad y calidad del acceso a internet en diversas provincias.
 
 ### 4. Dataset
