@@ -36,6 +36,12 @@ Un KPI posible es "aumentar la velocidad de los accesos a velocidades a mas de 
 ### 4. Dataset
 Contiene el archivo Internet.xlsx que sirvió como fuente de datos para la realización de este trabajo.
 
+### 4. Tecnologías Utilizadas
+Power BI 
+Python
+Librerías de Python: pandas, numpy, seaborn, matplotlib.pyplot y inearRegression (sklearn.linear_model)
+
+
 ### Conclusiones
 El internet, como medio de telecomunicación, posee la capacidad para conectar a millones de personas y dispositivos, impulsar la innovación tecnológica, y transformar sectores como la educación, la salud, el entretenimiento y el comercio, contribuyendo significativamente al desarrollo económico y social a nivel mundial. Es por este motivo que se debe continuar el trabajo sobre su expansión hacia los diferentes sitios del país.
 
