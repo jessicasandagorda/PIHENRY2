@@ -13,7 +13,10 @@ Se ha solicitado un análisis exhaustivo, desde el Análisis de Datos, del compo
 
 ### 1. Análisis Exploratorio de Datos (EDA)
 
-El EDA se realizó en un notebook, documentando claramente cada paso y las conclusiones correspondientes en cada gráfico y análisis. Se abordaron aspectos como la búsqueda de valores faltantes, valores atípicos/extremos y registros duplicados. Se utilizaron gráficos adecuados según la tipología de cada variable, lo cual fue esencial para el análisis.
+El análisis exploratorio de datos (EDA) realizado en este proyecto proporciona una visión detallada del estado actual de los accesos a internet en diversas localidades y tecnologías en Argentina. Se evidenció que existen variaciones significativas en la penetración de internet entre las diferentes provincias, así como en las velocidades de conexión utilizadas. Esto sugiere la necesidad de una planificación estratégica por parte de los proveedores de servicios de internet para mejorar la infraestructura y aumentar la accesibilidad y calidad del servicio en las áreas menos desarrolladas. Además, se observó una tendencia creciente en la adopción de tecnologías más avanzadas como la fibra óptica, lo que implica un desplazamiento gradual de las tecnologías más antiguas como el ADSL.
+
+El EDA permite identificar áreas clave para la intervención y mejora, facilitando la toma de decisiones informadas basadas en datos. Los gráficos y análisis realizados indican claramente las áreas donde se requiere mayor inversión y desarrollo para cerrar la brecha digital y asegurar que un mayor número de hogares y localidades puedan acceder a servicios de internet de alta velocidad y calidad. Este análisis no solo beneficia a los proveedores de servicios, sino también a los formuladores de políticas públicas que buscan promover la inclusión digital en todo el país.
+
 
 ### 2. Dashboard Telecomunicaciones
 
